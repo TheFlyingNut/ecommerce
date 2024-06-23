@@ -9,6 +9,7 @@
     "@mui/material": "^5.15.20",
     "@mui/styled-engine-sc": "^6.0.0-alpha.18",
     "@reduxjs/toolkit": "^2.2.5",
+    "@stripe/stripe-js": "^4.0.0",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
@@ -23,6 +24,7 @@
     "sass": "^1.77.6",
     "scss": "^0.2.4",
     "strapi": "^3.6.11",
+    "stripe": "^15.12.0",
     "styled-components": "^6.1.11",
     "web-vitals": "^2.1.4"
   },
